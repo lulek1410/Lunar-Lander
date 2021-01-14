@@ -1,0 +1,10 @@
+LanderWidth=40
+enginePowerVx=1
+enginePowerVy=1.5
+fuelAmount=100
+maxPointsAmount=400
+numberOfLives=3
+numberOfLevels=8
+bonusPerSecond=10
+bonusPerFuel=10
+
