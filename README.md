@@ -72,7 +72,7 @@ We also have to implement a server with whom the game can connect. If you type c
 
 
 ## Graphics
-All the graphics was made by [@Jan](https://github.com/lulek1410). Excellent work!
+All the graphics was made by me.
 
 ## Status
 Project is: _finished_
