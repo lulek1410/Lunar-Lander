@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="projektPROZE:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/projektPROZE_jar</output-path>
-    <root id="archive" name="projektPROZE.jar">
-      <element id="module-output" name="projektPROZE" />
-    </root>
-  </artifact>
-</component>

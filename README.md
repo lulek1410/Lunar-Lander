@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-Famous game implemented by me and my friend [@Jan Szewczyński](https://github.com/lulek1410) for a university subject. 
+Famous game implemented by me and my friend [@Eryk Mroczko](https://github.com/emroczko) for a university subject. 
 
 You are steering a Lunar Lander and you have to safely land it on the surface of a few different planets. You have to watch out for the asteorids!
 If you land too dangerously, you can crash your lander. 
